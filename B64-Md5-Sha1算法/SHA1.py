@@ -21,7 +21,3 @@ def get_sha1(keyword):
 if __name__ == '__main__':
     keyword = 'woaini'
     get_sha1(keyword)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
